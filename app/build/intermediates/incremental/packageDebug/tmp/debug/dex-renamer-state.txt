@@ -1,0 +1,4 @@
+#Wed Dec 25 10:30:34 CST 2019
+base.0=C\:\\Users\\25371\\Desktop\\AS\\software\\romote\\Notes-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
